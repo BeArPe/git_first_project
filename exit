@@ -1,0 +1,65 @@
+[33mcommit 8b28f0eb7726f57426b080e895284d36940888c3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Mon Nov 13 13:01:42 2023 +0300
+
+    [README] Добавлена информация в шпаргалку о HEAD
+
+[33mcommit ff9c8defd9f581e11f4520881e3994dca70ab9ec[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Mon Nov 13 12:59:36 2023 +0300
+
+    [README] Добавлена информация в шпаргалку о логе
+
+[33mcommit a3b7452ade55d011671da26be55641f706955187[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Mon Nov 13 12:54:16 2023 +0300
+
+    [README] Добавлена информация в шпаргалку о хеше
+
+[33mcommit 8fa96d21079098ea57c92b2da20aa2496f9c6a15[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Mon Oct 30 14:36:10 2023 +0300
+
+    Добавил со старого урока
+
+[33mcommit d828efbdfa9c731440845ec70794eb8c4e86270a[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Wed Oct 25 13:56:24 2023 +0300
+
+    Изучаю статусы git
+
+[33mcommit 2c5e98431ff96adfaa1e8654ea00e0573922dbfb[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Sat Oct 21 13:37:26 2023 +0300
+
+    Добавление readme.md
+
+[33mcommit 7242db550d225a937e43a188fef99021156ba795[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Wed Oct 18 15:10:52 2023 +0300
+
+    Новая строчка
+
+[33mcommit c782614ed388ba6ea2ef7e75cd2f64f8cfa0a8d2[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Wed Oct 18 13:31:08 2023 +0300
+
+    Добавил 3 строку
+
+[33mcommit f3d19c4e740a1ddd67aa42afcbdd084fa7aaed49[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Wed Sep 13 11:08:34 2023 +0300
+
+    Создал новый файл
+
+[33mcommit 5e59cbc90bb0cc7ea3d0a067fdce41c9252ebf52[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Wed Sep 13 11:05:14 2023 +0300
+
+    внес записи в 1,2,3 строки
+
+[33mcommit 6005ed54f3d79b109bd1174991e8c6131f894b9f[m
+Author: a.belov <a.belov@rabota.ru>
+Date:   Wed Sep 13 10:51:28 2023 +0300
+
+    Мой первый коммит!
